@@ -1,0 +1,86 @@
+---
+sidebar: sidebar 
+permalink: task-change-blob-storage-settings.html 
+keywords: blob storage, blob working environment, azure blob storage accounts, azure blob working environment 
+summary: 當您的 Azure Blob Storage 工作環境在 Canvas 中可用時、您可以直接從 BlueXP 變更部分儲存帳戶內容。 
+---
+= 變更 Azure Blob 儲存帳戶設定
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+當您的 Azure Blob Storage 工作環境在 Canvas 中可用時、您可以直接從 BlueXP 變更部分儲存帳戶內容。
+
+請注意、您無法變更儲存帳戶名稱、 Azure 區域或儲存設備的效能類型。
+
+您可以變更的儲存帳戶內容包括：
+
+* 儲存帳戶的訂閱與資源群組。
+* 新增、變更或移除新增至儲存帳戶之物件的標記。
+* 是否加密新增至儲存帳戶的新物件、以及用於加密的選項。
+
+
+您可以按一下、直接從 BlueXP 變更這些儲存帳戶設定 image:button-horizontal-more.gif["三點多一點按鈕"] 適用於儲存帳戶。
+
+image:screenshot-edit-azure-blob-storage.png["顯示如何從 BlueXP 編輯儲存帳戶內容的螢幕擷取畫面。"]
+
+
+
+== 變更專案詳細資料
+
+在 _ 專案詳細資料 _ 區段中、您可以變更儲存帳戶的訂閱和資源群組。
+
+[cols="25,75"]
+|===
+| 欄位 | 說明 
+
+
+| 訂購 | 為儲存帳戶選取不同的 Azure 訂閱。 
+
+
+| 資源群組  a| 
+為儲存帳戶選取不同的資源群組。
+
+https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/manage-resource-groups-portal["深入瞭解資源群組"^]。
+
+|===
+按一下 * 儲存 * 以儲存變更至儲存帳戶。
+
+
+
+== 新增或變更儲存帳戶中物件的標記
+
+在 _ 標記 _ 區段中、您最多可以新增 10 個標記關鍵字 / 值配對、也可以變更或刪除標記關鍵字 / 值配對。標記會在物件新增至儲存帳戶時套用至物件。若要新增更多標記、請按一下*新增標記*。
+
+https://learn.microsoft.com/en-us/azure/storage/blobs/storage-manage-find-blobs["從 Microsoft 文件深入瞭解標記"^]。
+
+按一下 * 儲存 * 以儲存變更至儲存帳戶。
+
+
+
+== 變更加密設定
+
+在 _ 加密 _ 區段中、您可以變更要用來保護儲存帳戶資料存取的資料加密類型。
+
+[cols="25,75"]
+|===
+| 資料加密類型 | 說明 
+
+
+| Microsoft 託管的金鑰 | 根據預設、 Microsoft 託管的加密金鑰會用於加密資料。 
+
+
+| 客戶管理的金鑰  a| 
+您可以使用自己的客戶管理金鑰進行資料加密、而非使用預設的 Microsoft 管理加密金鑰。如果您打算使用自己的客戶管理金鑰、您必須先建立金鑰、才能選取此頁面中的金鑰庫和金鑰。
+
+金鑰可以與儲存帳戶使用相同的訂閱、也可以選擇不同的訂閱。
+
+|===
+請參閱的 Microsoft Azure 文件 https://learn.microsoft.com/en-us/azure/storage/common/storage-service-encryption["更多關於 Microsoft 託管金鑰的資訊"^]和 https://learn.microsoft.com/en-us/azure/storage/common/customer-managed-keys-overview["客戶管理金鑰的詳細資訊"^]。
+
+按一下 * 儲存 * 以儲存變更至儲存帳戶。
