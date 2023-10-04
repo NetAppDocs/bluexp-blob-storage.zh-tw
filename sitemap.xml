@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  
+    
+    
+  
+
+  
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/bluexp-blob-storage/</loc>
+      
+      <lastmod>2023-06-05T16:50:04+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/bluexp-blob-storage/legal-notices.html</loc>
+      
+      <lastmod>2023-09-28T16:20:17+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/bluexp-blob-storage//search.html</loc>
+      
+      <lastmod>2023-10-04T20:21:12+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/bluexp-blob-storage/task-add-blob-storage.html</loc>
+      
+      <lastmod>2023-06-05T16:50:04+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/bluexp-blob-storage/task-blob-enable-data-services.html</loc>
+      
+      <lastmod>2023-06-05T16:50:04+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/bluexp-blob-storage/task-change-blob-storage-settings.html</loc>
+      
+      <lastmod>2023-06-05T16:50:04+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/bluexp-blob-storage/task-get-help.html</loc>
+      
+      <lastmod>2023-10-04T17:29:37+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/bluexp-blob-storage/task-support-registration.html</loc>
+      
+      <lastmod>2023-10-04T17:29:37+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/bluexp-blob-storage/task-view-azure-blob-storage.html</loc>
+      
+      <lastmod>2023-06-05T16:50:04+00:00</lastmod>
+      
+    </url>
+  
+    <url>
+      <loc>https://docs.netapp.com/zh-tw/bluexp-blob-storage/whats-new.html</loc>
+      
+      <lastmod>2023-06-05T16:50:04+00:00</lastmod>
+      
+    </url>
+  
+
+  
+  
+</urlset>
