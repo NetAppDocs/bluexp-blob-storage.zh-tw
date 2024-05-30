@@ -1,0 +1,31 @@
+---
+indexpage:
+  title: Azure Blob 儲存文件
+  summary: 開始使用 Azure Blob 儲存設備搭配 BlueXP 系統。
+  keywords: bluexp, documentation, storage, azure blob storage
+  lead: 開始使用 Azure Blob 儲存設備搭配 BlueXP 系統。
+  tiles:
+  - title: 開始使用
+    links:
+    - title: 檢視您的 Azure Blob 儲存帳戶
+      url: task-view-azure-blob-storage.html
+  - title: 管理 Azure Blob 儲存帳戶
+    links:
+    - title: 新增 Blob 儲存帳戶
+      url: task-add-blob-storage.html
+    - title: 變更儲存帳戶設定
+      url: task-change-blob-storage-settings.html
+    - title: 搭配 Azure Blob 儲存設備使用 NetApp 資料服務
+      url: task-blob-enable-data-services.html
+  - title: 更多資訊
+    links:
+    - title: Azure Blob 儲存文件、適用於 BlueXP 以外的管理
+      url: https://learn.microsoft.com/en-us/azure/storage/blobs/storage-blobs-introduction
+  - title: 部落格與社群
+    links:
+    - title: NetApp社群
+      url: https://community.netapp.com/t5/BlueXP-and-Services/ct-p/CDS
+    - title: BlueXP部落格
+      url: https://bluexp.netapp.com/blog/topic/cloud-manager
+    - title: BlueXP 網路研討會
+      url: https://bluexp.netapp.com/events
