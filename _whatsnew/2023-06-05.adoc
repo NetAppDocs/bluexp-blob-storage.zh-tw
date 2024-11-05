@@ -1,0 +1,9 @@
+= 能夠從 BlueXP 新增儲存帳戶
+:allow-uri-read: 
+
+
+
+
+=== 能夠從 BlueXP 新增儲存帳戶
+
+您已有一段時間可以在 BlueXP Canvas 上檢視 Azure Blob Storage 。現在您可以直接從 BlueXP  新增儲存帳戶、並變更現有儲存帳戶的內容。 https://docs.netapp.com/us-en/bluexp-blob-storage/task-add-blob-storage.html["瞭解如何新增 Azure Blob 儲存帳戶"]。

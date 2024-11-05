@@ -123,7 +123,6 @@
   <block id="3bec690d07df1a3a36c8a3122654fc24" category="section-title">2023 年 6 月 5 日</block>
   <block id="f9037e3eb23130835367334e3aa5a34b" category="section-title">能夠從 BlueXP 新增儲存帳戶</block>
   <block id="a39e8d6ee8bc43ef75656b419fe7a86e" category="inline-link">瞭解如何新增 Azure Blob 儲存帳戶</block>
-  <block id="34738f8a469a7971575b53ff1435539f" category="paragraph">您已有一段時間可以在 BlueXP Canvas 上檢視 Azure Blob Storage 。現在您可以直接從 BlueXP 新增儲存帳戶、並變更現有儲存帳戶的內容。<block ref="7f415337c5df45cbb7bfeb019667a476" category="inline-link-rx"></block>。</block>
   <block id="243263104c829e77835d632f591230d5" category="summary">在您透過NetApp技術支援開啟支援案例之前、您必須先在NetApp 支援網站 BlueXP中新增一個支援帳戶、然後註冊以取得支援。</block>
   <block id="42748df9eaa0be17ddc5cc1593cf57ab" category="doc">註冊以取得支援</block>
   <block id="0b0e252af8897fbe981ec6682d2aa33b" category="section-title">支援登錄總覽</block>
@@ -308,4 +307,5 @@
   <block id="0ca08a23718c0a91743dd6c0146ca353" category="paragraph">若要為 Cloud Volumes ONTAP 啟用下列關鍵工作流程、必須將 NetApp 支援網站認證與您的 BlueXP  組織建立關聯：</block>
   <block id="c81c8e01f5d906ae1ab0c5c606f06b05" category="paragraph">將 NSS 認證與您的 BlueXP  組織建立關聯、不同於與 BlueXP  使用者登入相關聯的 NSS 帳戶。</block>
   <block id="8166996cb4a59c147200d89a061bb49c" category="paragraph">這些 NSS 認證會與您的特定 BlueXP  組織 ID 相關聯。屬於 BlueXP  組織的使用者可從 * 支援 &gt; NSS 管理 * 存取這些認證。</block>
+  <block id="3e9d2d36df8c91d7e9151cc5775042a8" category="paragraph">您已有一段時間可以在 BlueXP Canvas 上檢視 Azure Blob Storage 。現在您可以直接從 BlueXP  新增儲存帳戶、並變更現有儲存帳戶的內容。<block ref="432ae671c636de993f8b5290b51ad53f" category="inline-link-rx"></block>。</block>
 </blocks>
