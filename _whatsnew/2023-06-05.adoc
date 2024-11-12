@@ -1,5 +1,7 @@
 = 能夠從 BlueXP 新增儲存帳戶
 :allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
 
 
 
