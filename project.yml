@@ -1,7 +1,6 @@
 ---
 settings:
   name: Azure Blob storage
-  platform: cloud
   internal:
     pdf_enabled: true
   prod:
